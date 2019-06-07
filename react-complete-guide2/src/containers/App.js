@@ -28,7 +28,7 @@ class App extends Component {
     console.log('[App.js] getDerivedStateFromProps');
     return state;
   }
-
+  //test
   
 
   nameChangedHandler = (event, id) =>{
